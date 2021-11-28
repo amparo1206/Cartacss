@@ -1,0 +1,27 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: 18px;
+}
+ul, li, ol{
+    color: rgb(33, 148, 156);
+    font-size: 15px;
+    font-weight: 900;
+}
+.address1{
+    text-align: right;
+}
+.address2{
+    text-align: left;
+}
+h1{
+    font-size: 30px;
+}
+blockquote{
+    text-align: justify;
+    font-size: 12;
+}
+h1, h2, h3{
+    color: darkblue;
+}
